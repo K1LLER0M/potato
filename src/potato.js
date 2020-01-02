@@ -24,7 +24,7 @@
 
     do {} while(new Date() < returnIn);
 
-    return time < 20 ? "potato" : "burned potato";
+    return time < 2000 ? "potato" : "burned potato";
 
   }
   
