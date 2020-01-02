@@ -1,0 +1,9 @@
+{
+  "name": "potato",
+  "version": "1.0.0",
+  "description": "Potato",
+  "main": "src/potato.js",
+  "repository": "https://github.com/K1LLER0M/potato",
+  "author": "K1LLER0M <khalouda200315@gmail.com>",
+  "license": "MIT"
+}
