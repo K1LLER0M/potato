@@ -20,9 +20,12 @@
   }
 
   potato.slowCook = function(time) {
-    setTimeout(function() {
-      return time < 20 ? "potato" : "burned potato";
-    }, time);
+    var returnIn = new Date(new Date().valueOf() + time);
+
+    do {} while(new Date() < returnIn);
+
+    return time < 20 ? "potato" : "burned potato";
+
   }
   
   potato.picture = function() {
