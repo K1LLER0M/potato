@@ -26,6 +26,7 @@
 
     return time < 2000 ? "potato" : "burned potato";
 
+    
   }
   
   potato.picture = function() {
