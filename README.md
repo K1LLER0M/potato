@@ -3,10 +3,19 @@
 A potato library inspired by [five.js](https://github.com/jackdclark/five)
 
 ## Usage:
+
+### Install the module
+
+```sh
+npm install potatojs
+# Or with yarn
+yarn add potatojs
+```
+
 ### Require the module
 
 ```javascript
-var potato = require('potato');
+var potato = require('potatojs');
 ```
 
 ### In the browser
