@@ -81,5 +81,10 @@ potato.hex(); // 0x706f7461746f
 potato.md5(); // "8ee2027983915ec78acc45027d874316"
 ```
 
+### Generate random potato
+```javascript
+potato.random(); // "delicious potato"
+```
+
 ## Lisence
 MIT
